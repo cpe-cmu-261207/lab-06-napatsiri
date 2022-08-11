@@ -17,3 +17,4 @@ npm run dev
 และสุดท้ายให้ deploy ใน [CMU Personal Webhosting](https://register-myweb.cmu.ac.th/)
 
 (ใส่ URL ที่นี่)
+https://github.com/cpe-cmu-261207/lab-06-napatsiri
